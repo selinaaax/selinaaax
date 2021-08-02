@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Selina Khan :)</h1>
-<img align="center" alt="gif" src ="https://github.com/shreyangautam/desktop-tutorial/blob/main/200.gif"></br>
+<img align="center" alt="gif" src ="https://github.com/shreyangautam/shreyangautam/blob/main/200.gif"></br>
 
 <h3 align="left">Connect with me:</h3>
 
